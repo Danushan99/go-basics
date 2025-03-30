@@ -27,5 +27,4 @@ func main() {
 
 	fmt.Printf("Future Value :%v\n\n ", futureValue)
 	fmt.Println("Future Real Value :", futureRealValue)
-
 }
